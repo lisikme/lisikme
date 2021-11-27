@@ -13,4 +13,3 @@
 Название файла | Ссылки для скачивания
 ------------ | -------------
 Плагин Gui hide | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/AledGuiHide.plugin.js) - 2.0
----
