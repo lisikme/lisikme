@@ -1,4 +1,4 @@
-### Discord сервер: [ALED PROJECT](https://discord.gg/rQHRex2)
+### Discord сервер: [ALED PROJECT](https://discord.gg/5BM4XD3qxM)
 ### Наш сайт [ALED PROJECT](https://aledproject.github.io)
 ---
 
