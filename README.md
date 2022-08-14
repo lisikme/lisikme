@@ -14,8 +14,8 @@
 Тема Alpha  | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css) - 14.58
 
 ##### Скачать тему: 
-Название файла | Версия | Кноки
------------- | ------------- | -------------
+Название бота | Версия | Кноки
+------------- | ------------- | -------------
 Шавермик      | 1 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/R-Stable/aledproject-relese.theme.css)
 Radio GoLive  | 2 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
 Music GoLive  | 3 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
