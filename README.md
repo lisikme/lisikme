@@ -15,7 +15,7 @@
 [Пригласить бота]() | Loviks GoLive | v1           | ✔  | ❌ | ❌ | ❌ | ❌ | ❌
 [Пригласить бота]() | VkNote GoLive | В разработке | ➖ | ➖ | ➖ | ➖ | ➖ | ➖
 ---
-## Тема для BetterDiscord
+<p align="center" style="font-size:60px">AledCreatik</p>
 #### Скачать: [DetterDiscord](https://BetterDiscord.app)
 ##### Скачать тему: 
 Название файла | Ссылки для скачивания
