@@ -1,6 +1,6 @@
 <div id="logo" align="center">
 <img src="https://i.imgur.com/0RGA4mn.png" alt="logo" style="width:1000px;height:auto"> 
-<p align="center" style="font-size:30px">AledCreatik™</p>
+<p align="center" style="font-size:30px">AledCreatik 💕</p>
 
 ### Discord сервер: [ALED PROJECT](https://discord.gg/5BM4XD3qxM)
 ### Наш сайт: [ALED PROJECT](https://aledproject.github.io)
