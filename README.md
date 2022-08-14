@@ -1,5 +1,5 @@
 <div id="logo" align="center">
-<img src="https://i.imgur.com/0RGA4mn.png" alt="logo" style="width:1000px;height:auto"> 
+<img src="https://i.imgur.com/teFy3nX.png" alt="logo" style="width:1000px;height:auto"> 
 <p align="center" style="font-size:30px">AledCreatik 💕</p>
 
 ### Discord сервер: [ALED PROJECT](https://discord.gg/5BM4XD3qxM)
