@@ -1,6 +1,6 @@
 <div id="logo" align="center">
 <img src="https://i.ibb.co/W20H43D/11zon-cropped.png" alt="logo" style="width:250px;height:auto"> 
-<p align="center" style="font-size:30px">Axioma</p>
+<p align="center" style="font-size:30px">AledCreatik</p>
 
 ### Discord сервер: [ALED PROJECT](https://discord.gg/5BM4XD3qxM)
 ### Наш сайт: [ALED PROJECT](https://aledproject.github.io)
