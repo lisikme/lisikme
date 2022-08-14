@@ -16,5 +16,8 @@
 ##### Скачать тему: 
 Название файла | Ссылки для скачивания
 ------------ | -------------
-Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/R-Stable/aledproject-relese.theme.css) - 73.3
-Тема Alpha | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css) - 14.58
+Шавермик | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/R-Stable/aledproject-relese.theme.css)
+Radio GoLive | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
+Music GoLive | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
+Loviks GoLive | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
+VkNote GoLive | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
