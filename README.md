@@ -17,7 +17,6 @@
 ---
 # Наша тема для BetterDisocrd  
 #### Скачать: [DetterDiscord](https://BetterDiscord.app)
-##### Скачать тему: 
 Название файла | Ссылки для скачивания
 ------------ | -------------
 Тема Stable | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/R-Stable/aledproject-relese.theme.css) - 73.3
