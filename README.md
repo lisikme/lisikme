@@ -15,7 +15,7 @@
 
 ##### Скачать тему: 
 Название файла | Ссылки для скачивания
------------- | -------------
+------------ | ------------- | -------------
 Шавермик      | 1 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/R-Stable/aledproject-relese.theme.css)
 Radio GoLive  | 2 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
 Music GoLive  | 3 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
