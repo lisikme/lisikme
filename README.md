@@ -13,7 +13,7 @@
 [Пригласить бота]() | Radio GoLive  | v1           | /help      | ✔         | ❌       | ❌      | ✔      | ✔
 [Пригласить бота]() | Music GoLive  | v1           | =help      | ✔         | ❌       | ❌      | ❌     | ❌
 [Пригласить бота]() | Loviks GoLive | v1           | ==help     | ✔         | ❌       | ❌      | ❌     | ❌
-                    | VkNote GoLive | В разработке |            |           |           |         |         | 
+[]() | VkNote GoLive | В разработке |            |           |           |         |         | 
 ---
 # Наша тема для BetterDisocrd  
 #### Скачать: [DetterDiscord](https://BetterDiscord.app)
