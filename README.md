@@ -14,10 +14,10 @@
 Тема Alpha  | [Скачать](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css) - 14.58
 
 ##### Скачать тему: 
-Название бота | Версия | Кнопки
-------------- | ------------- | -------------
-Шавермик      | 1 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/R-Stable/aledproject-relese.theme.css)
-Radio GoLive  | 2 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
-Music GoLive  | 3 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
-Loviks GoLive | 4 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
-VkNote GoLive | 5 | [Пригласить бота](https://github.com/ALEDPROJECT/ALED-THEME/releases/download/A-14.58/aledproject-alpha.theme.css)
+Кнопки | Название бота | Версия | 🎶 | 🔧 | 💘
+------------- | ------------- | ------------- | ------------- | ------------- | 
+[Пригласить бота]() | Шавермик      | v1 | ➕ |  | 
+[Пригласить бота]() | Radio GoLive  | v1 |  |  | 
+[Пригласить бота]() | Music GoLive  | v1 |  |  | 
+[Пригласить бота]() | Loviks GoLive | v1 |  |  | 
+[Пригласить бота]() | VkNote GoLive | v1 |  |  | 
