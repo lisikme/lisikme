@@ -1,7 +1,6 @@
 <div id="logo" align="center">
 <img src="https://i.imgur.com/hiZVAD2.png" alt="logo" style="width:600px;height:auto"> 
 <p align="center" style="font-size:30px">AledCreatik 💕</p>
-
 ### Discord сервер: [ALED PROJECT](https://discord.gg/5BM4XD3qxM)
 ### Наш сайт: [ALED PROJECT](https://aledproject.github.io)
 ---
@@ -24,3 +23,5 @@
 
 
 <p align="center" style="font-size:30px">Powered by ALED PROJECT ✨</p>
+  
+<br/><a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,java,py,html,css,heroku,mongodb,vscode,discord)</a>
