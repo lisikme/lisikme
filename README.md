@@ -1,11 +1,11 @@
 <div id="logo" align="center">
 <img src="https://i.imgur.com/hiZVAD2.png" alt="logo" style="width:600px;height:auto"> 
   
-  <a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,java,py,html,css,heroku,mongodb,vscode,discord)</a>
 <p align="center" style="font-size:30px">AledCreatik 💕</p>
   
-#### Discord сервер: [ALED PROJECT](https://discord.gg/5BM4XD3qxM)
-#### Наш сайт: [ALED PROJECT](https://aledproject.github.io)
+  <a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,java,py,html,css,heroku,mongodb,vscode,discord)</a>
+Discord сервер: [ALED PROJECT](https://discord.gg/5BM4XD3qxM)<br>
+Наш сайт: [ALED PROJECT](https://aledproject.github.io)
 ---
 
 ##### Наши Discord боты 
