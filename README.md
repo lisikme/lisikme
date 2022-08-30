@@ -12,7 +12,7 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 ➕ Кнопки           | ✏ Название   | 📀 Обновление | 📊 Серверов | 🌠 Префикс | 🎶 Музыка | 🔧 Админ | 👑 Топ
 ------------------- | ------------- | -------------- | ----------- | ---------- | --------- | --------- | -------
 [Добавить](https://discord.com/oauth2/authorize?client_id=487246091939479553&scope=bot&permissions=8&scope=applications.commands%20bot)        | Шавермик      | v4.1.1         | 500+        | -help      | ❌        | ✔        | ✔
-[Добавить](https://discord.com/oauth2/authorize?client_id=921838038580084777&scope=bot&permissions=8&scope=applications.commands%20bot)        | Radio GoLive  | v2.2 - Бета    | 100+        | /help      | ✔         | ❌       | ✔
+[Добавить](https://discord.com/oauth2/authorize?client_id=921838038580084777&scope=bot&permissions=8&scope=applications.commands%20bot)        | Radio GoLive  | v2.3 - Бета    | 100+        | /help      | ✔         | ❌       | ✔
 [Добавить](https://discord.com/oauth2/authorize?client_id=897818365836550144&scope=bot&permissions=8)        | Music GoLive  | v1.7           | 35+         | =help      | ✔         | ❌       | ❌
 [Добавить](https://discord.com/oauth2/authorize?client_id=937184094931001385&scope=bot&permissions=8)        | Loviks GoLive | v1.7           | 10+         | ==help     | ✔         | ❌       | ❌
 []()                | VkNote GoLive | В разработке   |             |            |           |           |
