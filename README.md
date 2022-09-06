@@ -3,7 +3,7 @@
   
 <p align="center" style="font-size:30px">AledCreatik 💕</p>
   
-<a href="" >![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,java,py,html,css,heroku,mongodb,vscode,discord)</a><br><br>
+<a href="#">![SkillIcons](https://skillicons.dev/icons?i=js,nodejs,java,py,html,css,heroku,mongodb,vscode,discord)</a><br><br>
 Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 Наш сайт: [AledGG.ru](https://aledproject.github.io)
 ---
