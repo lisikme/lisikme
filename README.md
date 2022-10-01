@@ -10,9 +10,7 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Dellyis&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellyis&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  Ты кто я тебя не знаю!
 </details>
 
 <p align="center" style="font-size:30px">Powered by ALED PROJECT ✨</p>
