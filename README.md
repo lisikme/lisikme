@@ -8,7 +8,9 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 Наш сайт: [AledGG.ru](https://aledproject.github.io)
 ---
 
-  <summary align="left">Конфигурация пк ⚡</summary>
+  
+  <div align="left">Конфирурация пк</div>  
+<div align="left">
   
 - [x] ATX FORMULA F-3402
 - [x] AEROCOOL VX PLUS 600W
@@ -21,7 +23,7 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 - [x] A-DATA SU650 120GB
 - [x] A-DATA SU650 240GB
 - [x] DATO DS700 DS700SSD 128GB
-
+</div>
 
 ---
 
