@@ -8,8 +8,8 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 Наш сайт: [AledGG.ru](https://aledproject.github.io)
 ---
 
-<details align="left">
-
+  <summary align="left">Конфигурация пк ⚡</summary>
+  
 - [x] ATX FORMULA F-3402
 - [x] AEROCOOL VX PLUS 600W
 - [x] ASUS TUF B450M-PRO GAMING
@@ -22,7 +22,6 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 - [x] A-DATA SU650 240GB
 - [x] DATO DS700 DS700SSD 128GB
 
-</details>
 
 ---
 
