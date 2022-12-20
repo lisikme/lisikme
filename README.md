@@ -9,7 +9,6 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 ---
 
 <details align="left">
-  <summary align="left">Конфигурация пк ⚡</summary>
 
 - [x] ATX FORMULA F-3402
 - [x] AEROCOOL VX PLUS 600W
