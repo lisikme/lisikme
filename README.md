@@ -15,7 +15,7 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
   
 > - [x] ATX FORMULA F-3402
 > - [x] AEROCOOL VX PLUS 600W
-> - [x] ASUS TUF B450M-PRO GAMING
+> - [] ASUS TUF B450M-PRO GAMING
 > - [x] AMD Ryzen 5 5600G BOX
 > - [x] Palit NVIDIA GeForce RTX 2060SUPER 8GB
 > - [x] HyperX FURY HX424C15FB3 x2 8GB
