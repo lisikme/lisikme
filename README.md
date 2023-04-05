@@ -13,7 +13,7 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 ```
 <div align="left">
   
-> - [x] ATX FORMULA F-3402
+> - [x] Deepcool CH510
 > - [x] AEROCOOL VX PLUS 600W
 > - [x] MSI B550-A PRO
 > - [x] AMD Ryzen 5 5600G BOX
