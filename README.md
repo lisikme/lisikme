@@ -29,4 +29,4 @@ Discord сервер: [ALED Crearik](https://discord.gg/5BM4XD3qxM)<br>
 
 ---
 
-<p align="center" style="font-size:30px">Powered by ALED PROJECT ✨</p>
+<p align="center" style="font-size:30px">Powered by KetaruDev ✨</p>
