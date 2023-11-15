@@ -1,5 +1,16 @@
 <div id="logo" align="center">
 <img src="https://github.com/lisikme/lisikme/blob/main/page.png?raw=true" alt="logo" style="width:777px;height:auto"> 
+
+<link rel="stylesheet" href="./.css"> 
+
+<body>
+<div id="card">
+<div id="img"></div>
+<span id="user"></span>
+<span id="info"></span>
+<span id="app">KetaruCorp</span>
+</div>
+</body>
   
 <p align="center" style="font-size:30px">KetaruCorp 💕</p>
   
