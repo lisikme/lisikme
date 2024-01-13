@@ -10,6 +10,6 @@ Discord сервер: [KetaruCorp](https://discord.gg/5BM4XD3qxM)<br>
 
 
 
----
+
 
 <p align="center" style="font-size:30px">Powered by KetaruCorp ✨</p>
