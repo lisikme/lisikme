@@ -8,17 +8,7 @@ Discord сервер: [KetaruCorp](https://discord.gg/5BM4XD3qxM)<br>
 ---
 
 ```
-Конфирурация пк
-```
-<div align="left">
-  
-> - [x] Deepcool CH510
-> - [x] AEROCOOL VX PLUS 600W
-> - [x] MSI B550-A PRO
-> - [x] AMD Ryzen 5 5600G BOX
-> - [x] Palit NVIDIA GeForce RTX 2060SUPER 8GB
-> - [x] HyperX FURY HX424C15FB3 x2 8GB
-</div>
+
 
 
 ---
