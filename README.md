@@ -7,7 +7,6 @@ Discord сервер: [KetaruCorp](https://discord.gg/5BM4XD3qxM)<br>
 Наш сайт: [ketaru.com](https://ketaru.github.io)
 ---
 
-```
 
 
 
